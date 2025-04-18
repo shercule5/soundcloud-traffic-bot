@@ -1,0 +1,11 @@
+To re-run the bot:
+
+Go back to your Command Prompt,
+
+Make sure you're still in the trafficbot folder:
+
+cd "%USERPROFILE%\Documents\trafficbot"
+Then run:
+
+
+python trafficbot_clean.py
